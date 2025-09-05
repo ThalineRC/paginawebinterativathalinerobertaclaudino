@@ -2,7 +2,8 @@ body{
     color:rgba(25, 0, 255, 0.336);
 
 background:(color:blueviolet);
-
+margin: 0px;
+font-family::shadow, 'times new roman' ,times, serif;
 
 }
 header{
@@ -17,6 +18,13 @@ section {
     display: flex;
     justify-content: center;
 }
+.chamada{ 
+    background-color: aqua;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+    }
 .chamada-texto{
      margin-right: 5%;
 }
